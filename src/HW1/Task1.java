@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Task1 {
     public static void main(String[] args) {
-        System.out.println("введіть декілька цифр для реверсу");
+        System.out.println("введіть декілька цифр для реверсуу");
         Scanner scanner = new Scanner(System.in);
         int intscan = scanner.nextInt();
         reversN(intscan);
